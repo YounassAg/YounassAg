@@ -36,16 +36,8 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611ztgfs48zyz1qmzly4693hp33ck9vrhcliuup0cme&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img align="right" height="201" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VhZHhpdm9meTE5eXp2c3pxNnd6bzU1end5emMyeHB1YTMwZDgzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TaYmMYLtP0RvpDzgn4/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YounassAg/YounassAg/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YounassAg&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
